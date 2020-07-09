@@ -1,4 +1,4 @@
-#pama once
+#pragma once
 
 int sum(int n);
 
